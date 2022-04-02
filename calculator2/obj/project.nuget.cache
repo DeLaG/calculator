@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Z4hcERn7uYMi/26YYBRvCFt+MiXuYmeovYV5+a46wpilwDX/g61kUla4XtdAir8NvSW50Z063nCIvhUIFWI6mA==",
+  "dgSpecHash": "48V7P+IrbHFi0DoE7oc01J0MwgYs7EYQ4c+rSjwrj65aOtC/QDvFKzleRqmKhu1vxN9xZbe+5F9h/zqMF4GBKA==",
   "success": true,
-  "projectFilePath": "/Users/user/Projects/calculator2/calculator2/calculator2.csproj",
+  "projectFilePath": "/Users/user/Projects/gitty/calculator2/calculator2.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

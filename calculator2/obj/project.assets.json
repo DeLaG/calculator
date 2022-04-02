@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/user/Projects/calculator2/calculator2/calculator2.csproj",
+      "projectUniqueName": "/Users/user/Projects/gitty/calculator2/calculator2.csproj",
       "projectName": "calculator2",
-      "projectPath": "/Users/user/Projects/calculator2/calculator2/calculator2.csproj",
+      "projectPath": "/Users/user/Projects/gitty/calculator2/calculator2.csproj",
       "packagesPath": "/Users/user/.nuget/packages/",
-      "outputPath": "/Users/user/Projects/calculator2/calculator2/obj/",
+      "outputPath": "/Users/user/Projects/gitty/calculator2/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/user/.config/NuGet/NuGet.Config"

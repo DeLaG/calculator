@@ -1,14 +1,15 @@
 ﻿<Properties StartupConfiguration="{DEB3A584-33BC-43B7-BFAA-6396CED5D606}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="calculator2/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="calculator2/branch2class.cs">
     <Files>
       <File FileName="calculator2/Program.cs" Line="1" Column="1" />
+      <File FileName="calculator2/branch2class.cs" Line="8" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Calculator" expanded="True">
             <Node name="calculator2" expanded="True">
-              <Node name="Program.cs" selected="True" />
+              <Node name="branch2class.cs" selected="True" />
             </Node>
           </Node>
         </State>
